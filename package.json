@@ -1,0 +1,13 @@
+{
+    "name": "node-gameunits",
+    "version": "0.3.9",
+    "description": "Gameunits client",
+    "keywords": ["gameunits"],
+    "repository": "git://github.com/gameunits/node-gameunits.git",
+    "author": "Chen King",
+    "main": "lib/gameunits.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
